@@ -1,16 +1,14 @@
-## Hi there 👋
+# Diana
 
-<!--
-**ddianasm/ddianasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer (React, TypeScript).  
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[recipes-app](https://github.com/ddianasm/recipes-app)** · [Live demo](https://recipes-app-5mu2.vercel.app/)  
+Search, filters, pagination and favorites. React, TypeScript, TanStack Query, MobX.
+
+**[google-forms-clone](https://github.com/ddianasm/google-forms-clone)**  
+Create forms, collect answers, view responses. React, TypeScript, GraphQL, RTK Query.
+
+**[movie-explorer](https://github.com/ddianasm/movie-explorer)**  
+Movie and TV search with a watchlist. React, TypeScript, GraphQL BFF.
